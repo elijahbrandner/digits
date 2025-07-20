@@ -39,6 +39,7 @@ Users can log in with their email and password. Admin users have additional priv
 Test accounts:
 
 admin@foo.com / changeme
+
 john@foo.com / changeme
 
 <img src="doc/digitsloginpage.png" alt="Login Page Screenshot" width="400">
