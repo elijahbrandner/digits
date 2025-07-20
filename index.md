@@ -1,4 +1,4 @@
-<img src="doc/digitslanding.png" alt="Landing Page Screenshot" width="600"/>
+<img src="doc/digitslandingpage.png" alt="Landing Page Screenshot" width="600"/>
 
 # Digits Application (ICS 314 - Summer 2025)
 
