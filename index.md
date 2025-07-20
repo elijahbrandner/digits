@@ -40,6 +40,7 @@ Test accounts:
 
 admin@foo.com / changeme
 john@foo.com / changeme
+
 <img src="doc/digitsloginpage.png" alt="Login Page Screenshot" width="400">
 
 ### Landing Page
